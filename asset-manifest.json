@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/to-do-for-junior/static/css/main.7c8b6159.css",
+    "main.js": "/to-do-for-junior/static/js/main.b1745bb8.js",
+    "index.html": "/to-do-for-junior/index.html",
+    "main.7c8b6159.css.map": "/to-do-for-junior/static/css/main.7c8b6159.css.map",
+    "main.b1745bb8.js.map": "/to-do-for-junior/static/js/main.b1745bb8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7c8b6159.css",
+    "static/js/main.b1745bb8.js"
+  ]
+}
